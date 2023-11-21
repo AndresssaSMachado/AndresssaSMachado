@@ -6,7 +6,7 @@ Iniciante em Programação 💻🔍📚
 - *Aluna [DIO PRO](https://web.dio.me/home) 🎯
 - *Aluna [DESCOMPLICA - Potência Tech](https://ifood.io.descomplica.com.br) 🎯
 
-- Neste momento estou focada em: [Bootcamp Potência Tech Ifood](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero) & [Bootcamp Potência Tech Ifood](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
+- Neste momento estou focada em: [Bootcamp Lógica de Programação Ifood](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero) & [Bootcamp Desenvolvimento de Jogos Ifood](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
 
 *Advogada desde 2007, atuante em Direito Bancário e Pós graduada em Direito Penal - Parte Geral 
 

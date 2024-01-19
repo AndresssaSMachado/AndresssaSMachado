@@ -6,9 +6,10 @@ Iniciante em Programação 💻🔍📚
 - *Aluna [DIO PRO](https://web.dio.me/home) 🎯
 - *Aluna [DESCOMPLICA - Potência Tech](https://ifood.io.descomplica.com.br) 🎯
 - *Aluna [Programa One + Alura](https://cursos.alura.com.br/formacao-fase-selecao-one6)🎯
+- *Aluna [Harvard - Escola de Liderança CC50](https://escola-de-lideranca.circle.so/)🎯
   
 
-- Neste momento estou focada em: [Bootcamp Desenvolvimento de Jogos - Ifood](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos), [Meu Futuro Tech - Descomplica](https://docs.google.com/spreadsheets/u/0/d/1-SvXXwBIJCMs2yhlDxGfmTChJmcyHjlNs_pU3x8IAK8/htmlview#) e [Programa One + Alura](https://cursos.alura.com.br/formacao-fase-selecao-one6)
+- Neste momento estou focada em: [Bootcamp Desenvolvimento de Jogos - Ifood](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos), [Meu Futuro Tech - Descomplica](https://docs.google.com/spreadsheets/u/0/d/1-SvXXwBIJCMs2yhlDxGfmTChJmcyHjlNs_pU3x8IAK8/htmlview#),  [Programa One + Alura](https://cursos.alura.com.br/formacao-fase-selecao-one6) e [Harvard - Escola de Liderança CC50](https://escola-de-lideranca.circle.so/)
 
 *Finalizei em Nov/2023 o [Bootcamp Lógica de Programação Ifood](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
 

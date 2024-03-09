@@ -9,11 +9,12 @@ Iniciante em Programação 💻🔍📚
 - *Aluna [Harvard - Escola de Liderança CC50](https://escola-de-lideranca.circle.so/)🎯
   
 
-- Neste momento estou focada em:🚀 [Embaixadora DIO Campus Expert](https://cursos.alura.com.br/formacao-fase-selecao-one6), [Fundamentos de Inteligência Artificial](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial), [Programa One + Alura](https://cursos.alura.com.br/formacao-fase-selecao-one6) e [Harvard - Escola de Liderança CC50](https://escola-de-lideranca.circle.so/)
+- Neste momento estou focada em:🚀 [Embaixadora DIO Campus Expert](https://cursos.alura.com.br/formacao-fase-selecao-one6), [Programa One + Alura](https://cursos.alura.com.br/formacao-fase-selecao-one6) e [Harvard - Escola de Liderança CC50](https://escola-de-lideranca.circle.so/)
 
 *Finalizei em Nov/2023 o [Bootcamp Lógica de Programação Ifood](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
 *Finalizei em Jan/2024 o [Descomplica Meu Futuro Tech](https://ifood.io.descomplica.com.br/)
 *Finalizei em Fev/2024 o [Bootcamp Desenvolvimento de Jogos Ifood](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
+*Finalizei em Fev/2024 o Curso de [Fundamentos de Inteligência Artificial](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial)
 
 *Advogada desde 2007, atuante em Direito Bancário e Pós graduada em Direito Penal - Parte Geral 
 

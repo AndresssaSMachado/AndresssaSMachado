@@ -4,7 +4,7 @@
 Iniciante em Programação 💻🔍📚
 
 - *Aluna [DIO PRO](https://web.dio.me/home) 🎯
-- *Aluna [Embaixadora DIO Campus Expert T07](https://web.dio.me/track/dio-campus-expert-turma-07) 🎯
+- *Aluna [Embaixadora DIO Campus Expert T07 || T09](https://web.dio.me/track/dio-campus-expert-turma-07) 🎯
 - *Aluna [Programa One + Alura](https://cursos.alura.com.br/formacao-fase-selecao-one6)🎯
 - *Aluna [Harvard - Escola de Liderança CC50](https://escola-de-lideranca.circle.so/)🎯
   
